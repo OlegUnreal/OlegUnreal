@@ -37,7 +37,3 @@ Browser automation agent that retrieves elements by semantic meaning, not CSS se
 TypeScript voice UI for the Python engine. STT → engine → TTS. Fallback intent router if Python gateway is down. React components for voice interaction, markets, RAG, evals, training.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OlegUnreal&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
