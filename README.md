@@ -38,15 +38,6 @@ TypeScript voice UI for the Python engine. STT → engine → TTS. Fallback inte
 
 ---
 
-### What's not here
-
-- **No "I fine-tuned LLaMA on my laptop"** — fine-tuned DistilBERT on RTX 2060 (6GB VRAM). Larger models need bigger hardware.
-- **No "I deployed to Kubernetes"** — K8s manifests exist, not battle-tested in production.
-- **No "I built a multi-agent swarm"** — agents are tool-selection policies, not a ReAct loop. Supervisor routes, specialists execute, verifier checks.
-- **No "I achieved 99% accuracy"** — eval metrics on golden sets, not benchmarks. Real-world performance depends on your data.
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OlegUnreal&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
