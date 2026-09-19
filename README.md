@@ -1,6 +1,6 @@
 ### Hi, I'm Oleg
 
-Senior backend engineer building production AI systems — not demos, not notebooks, not "I wrapped GPT."
+Senior backend engineer building production AI systems.
 
 I build tool-first orchestration layers where the language model is the mouth, not the decision-maker. Every project below ships with tests, CI, and honest documentation about what works and what doesn't.
 
